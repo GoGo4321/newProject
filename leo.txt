@@ -1,1 +1,4 @@
 this is my firat project for your !
+我负责测试  这个项目的可行性！
+distBranch   : 我负责该产品的发行！
+dev : 我负责对该产品的开发  和  维护！
